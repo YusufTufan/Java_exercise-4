@@ -1,0 +1,1 @@
+Maaş hesabı yapan uygulama
